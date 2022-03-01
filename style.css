@@ -4,18 +4,17 @@
 
 body,html {
     background-color: rgb(150, 232, 243);
+    background-image: url('./img/Ekran\ görüntüsü\ 2022-02-08\ 231308.jpg');
     margin: 0;
     padding: 0;
 }
 
 .aramamenüsü {
-    width: 1400px;
-    height: 30px;
-    margin:20px;
-    margin-top: 20px;
-    padding: 20px;
-    background-image: url('./img/arkafon4.jpg');
-    min-height: 40px;
+    width: 1400px; height: 10px; 
+    background-color: rgb(129, 173, 184); border:3px solid rgb(106, 191, 212);
+    margin: 10px auto 10px auto; border-radius: 10px 15px; 
+    box-shadow: 3px 3px 3px 3px rgb(11, 30, 36); text-align: center;
+    padding: 50px 30px 200px 30px  
 }
 
 .arkafon1 {
