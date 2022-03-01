@@ -11,8 +11,9 @@ body,html {
 .aramamenüsü {
     width: 1400px;
     height: 30px;
-    margin: 0;
-    padding: 0;
+    margin:20px;
+    margin-top: 20px;
+    padding: 20px;
     background-image: url('./img/arkafon4.jpg');
     min-height: 40px;
 }
