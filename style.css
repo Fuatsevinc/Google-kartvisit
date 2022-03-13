@@ -3,11 +3,9 @@
 } */
 
 body,html {
-    background-color: rgb(35, 196, 218);
+    background-color: rgb(150, 232, 243);
     margin: 0;
     padding: 0;
-    font-family: "Lato", sans-serif;
-    line-height: 1.2em;
 }
 
 .aramamenüsü {
@@ -15,7 +13,7 @@ body,html {
     height: 30px;
     margin: 0;
     padding: 0;
-    background-image: url('./img/arkafon0.jpg');
+    background-image: url('./img/arkafon4.jpg');
     min-height: 40px;
 }
 
